@@ -1,0 +1,23 @@
+{
+  "name": "backend_crud_qualicorp",
+  "version": "1.0.0",
+  "description": "backend do crud  teste Qualicorp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andreopvh2022/backend_crud_qualicorp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreopvh2022/backend_crud_qualicorp/issues"
+  },
+  "homepage": "https://github.com/andreopvh2022/backend_crud_qualicorp#readme",
+  "devDependencies": {
+    "eslint": "^8.23.0"
+  }
+}
